@@ -1,0 +1,14 @@
+.user-form{
+    display: block;
+    margin: 20px auto;
+    width: 70vw;
+}
+
+h1{
+    padding: 20px;
+    text-align: center;
+}
+
+#SelectAccomodations{
+    margin-bottom: 30px;
+}
